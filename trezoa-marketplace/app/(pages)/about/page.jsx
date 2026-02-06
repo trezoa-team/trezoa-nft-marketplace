@@ -10,7 +10,7 @@ import Team from "@/components/pages/about/Team";
 import Blogs from "@/components/pages/about/Blogs";
 
 export const metadata = {
-  title: "About || Xhibiter | NFT Marketplace Nextjs Template",
+  title: "About || Trezoa | NFT Marketplace Nextjs Template",
 };
 
 export default function AboutPage() {

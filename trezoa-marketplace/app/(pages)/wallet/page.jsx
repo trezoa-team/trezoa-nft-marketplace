@@ -4,7 +4,7 @@ import PageTitle from "@/components/pages/wallet/PageTitle";
 import Wallets from "@/components/pages/wallet/Wallets";
 
 export const metadata = {
-  title: "Wallet || Xhibiter | NFT Marketplace Nextjs Template",
+  title: "Wallet || Trezoa | NFT Marketplace Nextjs Template",
 };
 
 export default function WalletPage() {

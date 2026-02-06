@@ -4,7 +4,7 @@ import PageTitle from "@/components/resources/platform-status/PageTitle";
 import Status from "@/components/resources/platform-status/Status";
 
 export const metadata = {
-  title: "Platform Status || Xhibiter | NFT Marketplace Nextjs Template",
+  title: "Platform Status || Trezoa | NFT Marketplace Nextjs Template",
 };
 
 export default function PlatformStatusPage() {

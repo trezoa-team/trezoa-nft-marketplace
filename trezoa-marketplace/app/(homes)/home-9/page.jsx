@@ -10,7 +10,7 @@ import Partners from "@/components/common/Partners2";
 import Partners2 from "@/components/homes/home-9/Partners2";
 
 export const metadata = {
-  title: "Home 9 || Xhibiter | NFT Marketplace Nextjs Template",
+  title: "Home 9 || Trezoa | NFT Marketplace Nextjs Template",
 };
 export default function HomePage9() {
   return (

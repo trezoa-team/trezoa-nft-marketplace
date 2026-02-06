@@ -43,7 +43,7 @@ export default function Benefits() {
         </div>
 
         <p className="mt-4 text-center text-lg dark:text-jacarta-300">
-          Your funds will always be safe with Xhibiter.{" "}
+          Your funds will always be safe with Trezoa.{" "}
           <a href="#" className="text-accent">
             Learn More.
           </a>

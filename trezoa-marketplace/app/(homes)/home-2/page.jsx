@@ -7,7 +7,7 @@ import Featured from "@/components/homes/common/Featured";
 import Hero from "@/components/homes/home-2/Hero";
 import Partners from "@/components/common/Partners";
 export const metadata = {
-  title: "Home 2 || Xhibiter | NFT Marketplace Nextjs Template",
+  title: "Home 2 || Trezoa | NFT Marketplace Nextjs Template",
 };
 export default function HomePage2() {
   return (

@@ -3,7 +3,7 @@ import Header1 from "@/components/headers/Header1";
 import Ranking from "@/components/pages/Ranking";
 
 export const metadata = {
-  title: "Rankings || Xhibiter | NFT Marketplace Nextjs Template",
+  title: "Rankings || Trezoa | NFT Marketplace Nextjs Template",
 };
 
 export default function RankingPage() {

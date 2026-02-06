@@ -3,7 +3,7 @@ import Header1 from "@/components/headers/Header1";
 import SinglePost from "@/components/resources/SinglePost";
 
 export const metadata = {
-  title: "Single Post || Xhibiter | NFT Marketplace Nextjs Template",
+  title: "Single Post || Trezoa | NFT Marketplace Nextjs Template",
 };
 
 export default async function SinglePostPage(props) {

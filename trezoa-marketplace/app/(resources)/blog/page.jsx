@@ -3,7 +3,7 @@ import Header1 from "@/components/headers/Header1";
 import Blogs from "@/components/resources/Blogs";
 
 export const metadata = {
-  title: "Blog || Xhibiter | NFT Marketplace Nextjs Template",
+  title: "Blog || Trezoa | NFT Marketplace Nextjs Template",
 };
 
 export default function BlogPage() {

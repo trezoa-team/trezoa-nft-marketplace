@@ -3,7 +3,7 @@ import Header1 from "@/components/headers/Header1";
 import Activity from "@/components/pages/Activity";
 
 export const metadata = {
-  title: "Activity || Xhibiter | NFT Marketplace Nextjs Template",
+  title: "Activity || Trezoa | NFT Marketplace Nextjs Template",
 };
 
 export default function ActivityPage() {

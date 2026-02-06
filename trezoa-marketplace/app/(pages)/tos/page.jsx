@@ -3,7 +3,7 @@ import Header1 from "@/components/headers/Header1";
 import Tos from "@/components/pages/Tos";
 
 export const metadata = {
-  title: "Terms of Service || Xhibiter | NFT Marketplace Nextjs Template",
+  title: "Terms of Service || Trezoa | NFT Marketplace Nextjs Template",
 };
 
 export default function TermsPage() {

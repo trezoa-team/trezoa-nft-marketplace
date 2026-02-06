@@ -11,7 +11,7 @@ import Process from "@/components/homes/home-3/Process";
 import Partners from "@/components/common/Partners";
 
 export const metadata = {
-  title: "Home 3 || Xhibiter | NFT Marketplace Nextjs Template",
+  title: "Home 3 || Trezoa | NFT Marketplace Nextjs Template",
 };
 export default function HomePage3() {
   return (

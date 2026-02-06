@@ -10,7 +10,7 @@ import Cta from "@/components/homes/common/Cta";
 import Help from "@/components/homes/home-10/Help";
 
 export const metadata = {
-  title: "Home 10 || Xhibiter | NFT Marketplace Nextjs Template",
+  title: "Home 10 || Trezoa | NFT Marketplace Nextjs Template",
 };
 export default function HomePage10() {
   return (

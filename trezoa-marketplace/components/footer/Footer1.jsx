@@ -17,14 +17,14 @@ export default function Footer1() {
                 height={28}
                 src="/img/logo.png"
                 className="max-h-7 dark:hidden"
-                alt="Xhibiter | NFT Marketplace"
+                alt="Trezoa | NFT Marketplace"
               />
               <Image
                 width={130}
                 height={28}
                 src="/img/logo_white.png"
                 className="hidden max-h-7 dark:block"
-                alt="Xhibiter | NFT Marketplace"
+                alt="Trezoa | NFT Marketplace"
               />
             </Link>
             <p className="mb-12 dark:text-jacarta-300">
@@ -66,7 +66,7 @@ export default function Footer1() {
         </div>
         <div className="flex flex-col items-center justify-between space-y-2 py-8 sm:flex-row sm:space-y-0">
           <span className="text-sm dark:text-jacarta-400">
-            &copy; {new Date().getFullYear()} Xhibiter — Made by{" "}
+            &copy; {new Date().getFullYear()} Trezoa — Made by{" "}
             <a
               href="https://themeforest.net/user/ib-themes/portfolio"
               className="hover:text-accent"

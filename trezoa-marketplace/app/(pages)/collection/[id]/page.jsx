@@ -5,7 +5,7 @@ import Collection from "@/components/pages/collection/Collection";
 import Profile from "@/components/pages/collection/Profile";
 
 export const metadata = {
-  title: "Collection Details || Xhibiter | NFT Marketplace Nextjs Template",
+  title: "Collection Details || Trezoa | NFT Marketplace Nextjs Template",
 };
 
 export default async function ClooectionSinglePage(props) {

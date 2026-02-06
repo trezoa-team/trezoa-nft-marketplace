@@ -8,7 +8,7 @@ import Hero from "@/components/homes/home-5/Hero";
 import Process from "@/components/homes/home-5/Process";
 
 export const metadata = {
-  title: "Home 5 || Xhibiter | NFT Marketplace Nextjs Template",
+  title: "Home 5 || Trezoa | NFT Marketplace Nextjs Template",
 };
 export default function HomePage5() {
   return (

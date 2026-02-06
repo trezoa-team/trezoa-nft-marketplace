@@ -4,7 +4,7 @@ import Banner from "@/components/pages/edit-profile/Banner";
 import EditProfile from "@/components/pages/edit-profile/EditProfile";
 
 export const metadata = {
-  title: "Edit Profile || Xhibiter | NFT Marketplace Nextjs Template",
+  title: "Edit Profile || Trezoa | NFT Marketplace Nextjs Template",
 };
 
 export default function EditProfilePage() {

@@ -11,7 +11,7 @@ import Cta from "@/components/homes/common/Cta";
 import Hotbids from "@/components/homes/home-6/HotBids";
 
 export const metadata = {
-  title: "Home 6 || Xhibiter | NFT Marketplace Nextjs Template",
+  title: "Home 6 || Trezoa | NFT Marketplace Nextjs Template",
 };
 export default function HomePage6() {
   return (

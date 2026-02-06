@@ -10,7 +10,7 @@ export default function Service() {
           </h2>
           <p className="text-lg dark:text-jacarta-300">
             Connect our AI to your exchange account and invest crypto
-            automatically. Xhibiter app work while you just live.
+            automatically. Trezoa app work while you just live.
           </p>
         </div>
         <div className="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3">

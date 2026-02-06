@@ -205,23 +205,23 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 
 /* Tooltips */
-.tippy-box[data-theme~="xhibiter"] {
+.tippy-box[data-theme~="trezoa"] {
   @apply bg-jacarta-700;
 }
 
-.tippy-box[data-theme~="xhibiter"][data-placement^="top"]
+.tippy-box[data-theme~="trezoa"][data-placement^="top"]
   > .tippy-arrow::before {
   @apply border-t-jacarta-700;
 }
-.tippy-box[data-theme~="xhibiter"][data-placement^="bottom"]
+.tippy-box[data-theme~="trezoa"][data-placement^="bottom"]
   > .tippy-arrow::before {
   @apply border-b-jacarta-700;
 }
-.tippy-box[data-theme~="xhibiter"][data-placement^="left"]
+.tippy-box[data-theme~="trezoa"][data-placement^="left"]
   > .tippy-arrow::before {
   @apply border-l-jacarta-700;
 }
-.tippy-box[data-theme~="xhibiter"][data-placement^="right"]
+.tippy-box[data-theme~="trezoa"][data-placement^="right"]
   > .tippy-arrow::before {
   @apply border-r-jacarta-700;
 }

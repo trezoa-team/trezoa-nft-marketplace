@@ -52,7 +52,7 @@ export const servicesData = [
     name: "Support Services",
     status: "Operational",
     tooltip:
-      "Setting your asset as explicit and sensitive content, like pornography and other not safe for work (NSFW) content, will protect users with safe search while browsing Xhibiter.",
+      "Setting your asset as explicit and sensitive content, like pornography and other not safe for work (NSFW) content, will protect users with safe search while browsing Trezoa.",
   },
   { id: 6, name: "Emails", status: "Operational" },
 ];
@@ -115,7 +115,7 @@ export const process = [
   },
   {
     id: 5,
-    title: "Advertise Xhibiter",
+    title: "Advertise Trezoa",
     description:
       "With the most powerful way for users to buy and sell NFTS, we offer the most advanced features",
     svgPath:

@@ -11,7 +11,7 @@ import Roadmap from "@/components/homes/home-12/Roadmap";
 import Team from "@/components/homes/home-12/Team";
 
 export const metadata = {
-  title: "Home 12 || Xhibiter | NFT Marketplace Nextjs Template",
+  title: "Home 12 || Trezoa | NFT Marketplace Nextjs Template",
 };
 
 export default function HomePage12() {

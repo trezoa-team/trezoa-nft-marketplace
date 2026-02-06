@@ -18,11 +18,11 @@ export default function NewsLetter() {
         <div className="lg:flex lg:items-center lg:justify-between">
           <div className="pb-10 lg:w-[45%] lg:py-20 lg:pr-16">
             <h2 className="mb-6 font-display text-2xl text-jacarta-700 dark:text-white">
-              Sign up for The Tide, Xhibiter's newsletter!
+              Sign up for The Tide, Trezoa's newsletter!
             </h2>
             <p className="mb-10 text-lg leading-normal dark:text-jacarta-300">
               Join our mailing list to stay in the loop with our newest feature
-              releases, NFT drops, and tips and tricks for navigating Xhibiter
+              releases, NFT drops, and tips and tricks for navigating Trezoa
             </p>
 
             <form onSubmit={(e) => e.preventDefault()} className="relative">

@@ -10,7 +10,7 @@ import Promo from "@/components/homes/home-8/Promo";
 import Statictis from "@/components/homes/home-8/Statictis";
 
 export const metadata = {
-  title: "Home 8 || Xhibiter | NFT Marketplace Nextjs Template",
+  title: "Home 8 || Trezoa | NFT Marketplace Nextjs Template",
 };
 export default function HomePage8() {
   return (

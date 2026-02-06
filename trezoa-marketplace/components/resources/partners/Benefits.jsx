@@ -25,10 +25,10 @@ export default function Benefits() {
       <div className="container">
         <div className="mx-auto max-w-xl text-center">
           <h1 className="mb-6 text-center font-display text-4xl font-medium text-jacarta-700 dark:text-white">
-            Xhibiter Affiliate Partnership
+            Trezoa Affiliate Partnership
           </h1>
           <p className="mb-16 text-lg leading-normal dark:text-jacarta-200">
-            Interested in making money with Xhibiter? Earn A 20% Commission For
+            Interested in making money with Trezoa? Earn A 20% Commission For
             Every Sale You Refer By Recommending The Most Powerful NFT
             marketplace.
           </p>

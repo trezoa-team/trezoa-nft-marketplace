@@ -4,7 +4,7 @@ import Contact from "@/components/pages/contact/Contact";
 import PageTitle from "@/components/pages/contact/PageTitle";
 
 export const metadata = {
-  title: "Contact || Xhibiter | NFT Marketplace Nextjs Template",
+  title: "Contact || Trezoa | NFT Marketplace Nextjs Template",
 };
 
 export default function ContactPage() {

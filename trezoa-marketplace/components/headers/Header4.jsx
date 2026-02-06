@@ -45,7 +45,7 @@ export default function Header4() {
             height={28}
             src="/img/logo_white.png"
             className="max-h-7"
-            alt="Xhibiter | NFT Marketplace"
+            alt="Trezoa | NFT Marketplace"
           />
         </Link>
 
@@ -60,7 +60,7 @@ export default function Header4() {
                 height={28}
                 src="/img/logo_white.png"
                 className="max-h-7"
-                alt="Xhibiter | NFT Marketplace"
+                alt="Trezoa | NFT Marketplace"
               />
             </Link>
 

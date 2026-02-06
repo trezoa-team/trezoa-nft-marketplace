@@ -4,7 +4,7 @@ import Header1 from "@/components/headers/Header1";
 import CaseStudies from "@/components/pages/case-studies";
 
 export const metadata = {
-  title: "Case Studies || Xhibiter | NFT Marketplace Nextjs Template",
+  title: "Case Studies || Trezoa | NFT Marketplace Nextjs Template",
 };
 
 export default function CaseStudiesPage() {

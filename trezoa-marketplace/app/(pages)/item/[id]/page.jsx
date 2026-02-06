@@ -3,7 +3,7 @@ import Header1 from "@/components/headers/Header1";
 import ItemDetails from "@/components/pages/item/ItemDetails";
 
 export const metadata = {
-  title: "Item Details || Xhibiter | NFT Marketplace Nextjs Template",
+  title: "Item Details || Trezoa | NFT Marketplace Nextjs Template",
 };
 
 export default async function ItemDetailsPage(props) {

@@ -9,7 +9,7 @@ import Process from "@/components/homes/home-11/Process";
 import Statictis from "@/components/homes/home-11/Statictis";
 
 export const metadata = {
-  title: "Home 11 || Xhibiter | NFT Marketplace Nextjs Template",
+  title: "Home 11 || Trezoa | NFT Marketplace Nextjs Template",
 };
 export default function HomePage11() {
   return (

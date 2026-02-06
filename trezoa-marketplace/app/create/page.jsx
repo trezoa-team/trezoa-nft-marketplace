@@ -3,7 +3,7 @@ import Header1 from "@/components/headers/Header1";
 import Create from "@/components/create/Create";
 
 export const metadata = {
-  title: "Create || Xhibiter | NFT Marketplace Nextjs Template",
+  title: "Create || Trezoa | NFT Marketplace Nextjs Template",
 };
 
 export default function CreatePage() {

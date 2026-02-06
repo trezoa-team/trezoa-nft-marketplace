@@ -31,7 +31,7 @@ export default function Promo() {
               The safest most secure crypto app like never before
             </h2>
             <p className="mb-12 text-lg leading-normal dark:text-jacarta-300">
-              Xhibiter security is unlike every other. It’s better. No more
+              Trezoa security is unlike every other. It’s better. No more
               complex passwords or long phrases to store, browser extensions, or
               special hardware required. Your account is secured by private
               facial biometrics and industry-leading encryption to keep you safe

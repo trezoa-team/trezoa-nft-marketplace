@@ -3,7 +3,7 @@ import Header1 from "@/components/headers/Header1";
 import NewsLetter from "@/components/resources/NewsLetter";
 
 export const metadata = {
-  title: "News Letter || Xhibiter | NFT Marketplace Nextjs Template",
+  title: "News Letter || Trezoa | NFT Marketplace Nextjs Template",
 };
 
 export default function NewsLatterPage() {

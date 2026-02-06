@@ -4,7 +4,7 @@ import AggregatorTable from "@/components/homes/home-13/AggregatorTable";
 import Hero from "@/components/homes/home-13/Hero";
 
 export const metadata = {
-  title: "Home 13 || Xhibiter | NFT Marketplace Nextjs Template",
+  title: "Home 13 || Trezoa | NFT Marketplace Nextjs Template",
 };
 export default function HomePage13() {
   return (

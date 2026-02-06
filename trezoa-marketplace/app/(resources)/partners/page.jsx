@@ -8,7 +8,7 @@ import Testimonials from "@/components/resources/partners/Testimonials";
 import Image from "next/image";
 
 export const metadata = {
-  title: "Partners || Xhibiter | NFT Marketplace Nextjs Template",
+  title: "Partners || Trezoa | NFT Marketplace Nextjs Template",
 };
 
 export default function PartnersPage() {

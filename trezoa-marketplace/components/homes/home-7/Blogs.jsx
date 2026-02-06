@@ -14,7 +14,7 @@ export default function Blogs() {
             Financial News
           </h2>
           <p className="text-lg dark:text-jacarta-300">
-            Here are the best features that makes Xhibiter the most powerful,
+            Here are the best features that makes Trezoa the most powerful,
             and fast.
           </p>
         </div>

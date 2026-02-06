@@ -3,7 +3,7 @@ import Header1 from "@/components/headers/Header1";
 import Collections from "@/components/pages/Collections";
 
 export const metadata = {
-  title: "Collcetions || Xhibiter | NFT Marketplace Nextjs Template",
+  title: "Collcetions || Trezoa | NFT Marketplace Nextjs Template",
 };
 
 export default function CollectionsPage() {

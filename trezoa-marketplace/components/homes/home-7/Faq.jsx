@@ -63,7 +63,7 @@ export default function Faq() {
             <p className="text-lg text-jacarta-700 dark:text-jacarta-100">
               Any Question?{" "}
               <a href="#" className="text-accent">
-                support@xhibiter.com
+                support@trezoa.com
               </a>
             </p>
           </div>
