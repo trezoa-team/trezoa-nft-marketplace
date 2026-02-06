@@ -661,7 +661,7 @@ This project is licensed under a **Commercial License**.
 - ❌ Redistribute or resell as a template
 - ❌ Use in open-source projects without permission
 
-For licensing inquiries, contact: **office@trezoa.com**
+For licensing inquiries, contact: trezoa@sterlingcorellc.com
 
 ---
 
@@ -709,6 +709,6 @@ Special thanks to:
 
 **Built with ❤️ by the Trezoa Team**
 
-[Website](https://trezoa.com) • [GitHub](https://github.com/Trezoa-Team) • [Twitter](https://twitter.com/trezoa)
+[Website](https://trezoa.io) • [GitHub](https://github.com/Trezoa-Team) • [Twitter](https://twitter.com/trezoa)
 
 </div>
